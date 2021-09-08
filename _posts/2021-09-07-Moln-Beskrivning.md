@@ -2,6 +2,7 @@
 layout: post
 title:  "Moln Beskrivning"
 date:   2021-09-07 09:31:04 +0200
+categories: jekyll update
 ---
 
 # Moln beskrivning:

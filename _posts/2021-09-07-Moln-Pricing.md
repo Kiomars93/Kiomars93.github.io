@@ -2,6 +2,7 @@
 layout: post
 title:  "Moln-priser"
 date:   2021-09-07 09:31:04 +0200
+categories: jekyll update
 image1:  /Image/aws1.PNG
 image2:  /Image/aws2.PNG
 image3:  /Image/azure.PNG

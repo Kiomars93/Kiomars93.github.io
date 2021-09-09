@@ -4,7 +4,7 @@ title: Workflow
 permalink: /workflow/
 ---
 
-# Vad är en CI pipline
+# Beskrivning av CI pipline
 
     CI kan hjälpa dig att hålla dig till ditt teams kvalitetsstandarder genom att köra tester och 
     rapportera resultaten på GitHub. CI -verktyg kör builds och tester, utlösta av commits. 
@@ -21,8 +21,7 @@ permalink: /workflow/
      * Geografisk fördelning av beroende system och de människor som använder dem
      * Förpacknings- och leveransmål
 
-
-# Hur har du implementet en CI pipeline i GitHub actions på ett eksisterende projekt, vilka steg har du gått igenom?
+# Implementation av en CI pipeline i Github actions på vårt spacepark-team7 projekt och förklaring av dessa stegvis:
 
     Ja, har skapat en workflow på vår spacepark-team7 repo och kallat det för Run-Flow.
 

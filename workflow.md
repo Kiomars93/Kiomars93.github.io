@@ -20,6 +20,8 @@ permalink: /workflow/
      * Skalningsfunktioner och tillväxtplaner
      * Geografisk fördelning av beroende system och de människor som använder dem
      * Förpacknings- och leveransmål
+     
+     Referens: https://github.com/Kiomars93/github-actions-for-ci/issues/1
 
 # Implementation av en CI pipeline i Github actions på vårt spacepark-team7 projekt och förklaring av dessa stegvis:
 
@@ -65,6 +67,8 @@ permalink: /workflow/
     Om du behöver ett annat operativsystem eller behöver en specifik hårdvarukonfiguration kan 
     du vara värd för dina egna runners. Mer information om runners med egen värd finns i "Värd för dina egna runners".
 
+    Referens: https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions
+    
 # Beskrivning av min GitHub action workflow YAML fil: 
 
 ``` yaml

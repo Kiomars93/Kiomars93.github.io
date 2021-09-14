@@ -137,5 +137,14 @@ jobs:
 
 # Mitt sätt att göra min token secret:
 
-1. Först skapade ett Personal access tokens (PAT) via min github-profil.
-2. Därefter gick jag i mitt forkade repo och via settingsen krypterade mitt token.
+Det gjorde jag genom att:
+1. Välja min profil ikon och därefter setting.
+2. Developer Settings taben.
+3. Valde PAT taben.
+4. Genererade en 7 dagars valid token
+5. Därefter gick jag i mitt forkade repo
+6. Valde settings taben
+7. Valde "New repository secret"
+8. Döpte det till MYSECRET_DOCKER som ni såg tidigare på min "docker pipeline" 
+workflow och la till mitt token value och sparade därefter.
+

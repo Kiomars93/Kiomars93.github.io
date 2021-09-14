@@ -85,7 +85,7 @@ on:
 
 # En workflow består av ett eller flera jobs som kan köras i följd eller parallellt
 jobs:
-  # Detta wrokflow innehåller ett enda jobb som kallas "build"
+  # Detta workflow innehåller ett enda jobb som kallas "build"
   build:
     # Den typ av runner som jobbet kommer att köras på
     runs-on: windows-latest

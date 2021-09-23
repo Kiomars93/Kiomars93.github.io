@@ -1,8 +1,11 @@
 ---
-layout: page
-title: Workflow
-permalink: /workflow/
+layout: post
+title:  "Kap 2 - 2021-09-08 Automatisering av bygg och release"
+date:   2021-09-08 09:31:04 +0200
+categories: jekyll update
+
 ---
+
 
 # Beskrivning av CI pipline
 

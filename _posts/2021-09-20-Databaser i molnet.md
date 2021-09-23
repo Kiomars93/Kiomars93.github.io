@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Cloud Databases
-permalink: /CloudDB/
+layout: post
+title:  "Kap 5 - 2021-09-20 Databaser i molnet"
+date:   2021-09-08 09:31:04 +0200
+categories: jekyll update
 image1: /Image/CreateServer.png
 image2: /Image/GetRequest.png
 image3: /Image/PostRequest.png
@@ -12,6 +13,7 @@ image7: /Image/DBItems.png
 image8: /Image/AzureCloudAPI.png
 image9: /Image/Triggers.png
 ---
+
 
 # Beskriv kort applikationen, vad gör den?
 

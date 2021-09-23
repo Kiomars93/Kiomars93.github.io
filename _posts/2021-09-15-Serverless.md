@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Severless
-permalink: /Severless/
+layout: post
+title:  "Kap 4 - 2021-09-15 Serverless"
+date:   2021-09-08 09:31:04 +0200
+categories: jekyll update
 image1:  /Image/AzureFunctions.png
 image2:  /Image/Http trigger.png
 image3: /Image/AzureResourcegroup&FunctionApp.png
@@ -10,6 +11,7 @@ image5: /Image/CalProject.png
 image6: /Image/CalProjectURL.png
 image7: /Image/CalProjectTestNRun.png
 ---
+
 
 # Vad är Serverless och Function As A Service (FaaS)?
 
